@@ -1,0 +1,93 @@
+.profile-card {
+    max-width: 400px;
+    margin:100px auto;
+    padding: 10px;
+    border: 10px solid lch(79.85% 41.03 214.49);
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: oklab(78.245% -0.01273 -0.0838);
+    border-top: 100px auto;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 20px auto;
+    display: block;
+}
+ .container {
+            max-width: 700px;
+            margin:8px auto;
+            padding:90 px;
+            background-color: hwb(189 51% 8%);
+            border:0px solid #e3e6e78a;
+            box-shadow: 0 0 10px rgba(186, 110, 164, 0.1); 
+}        
+.profile-info {
+    text-align: center;
+
+.name {
+    font-size: 24px;
+    margin-bottom: 10px;
+     text-align:center;
+}
+.bio {
+    color: #120d0d;
+    margin-bottom: 20px;
+    text-align:center;
+}
+.time {
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align:center;
+    color: hsl(144, 71%, 1%);
+}
+
+}
+
+button {
+ flood-color: black;
+}
+
+.social-links li {
+    display: inline-block
+}
+
+.href-links li {
+    display: inline-block;
+}
+
+.dislikes, {
+    scroll-margin-buttom: 10px;
+}
+
+.hobbies ul,
+    list-style: cross-fade();
+    padding: 20;
+    margin: 20;
+     text-align:center;
+
+ .dislikes, ul {
+    list-style: cross-fade();
+    padding: 40;
+    margin: 20;
+    text-align:center;
+    }
+.dislikes ul {
+    list-style: cross-fade();
+    padding: 20;
+    margin: 20;
+    }
+.hobbies li, {
+    scroll-margin-top: 10px;
+     text-align:center;
+}
+
+.dislikes li, {
+    scroll-margin-top: 10px;
+    margin-top: 10px;
+    text-align:center;
+}
+
+
